@@ -1,0 +1,10 @@
+To install:
+
+1. git clone https://github.com/kneedels/gunderson.git
+2. cd gunderson
+3. git submodule init
+4. git submodule update
+5. create AppSettings.config (todo: provide sample)
+6. msbuild Gunderson.sln
+7. Run /bin/Debug/Gunderson.exe -console
+

@@ -1,0 +1,9 @@
+[submodule "smartirc4net"]
+	path = smartirc4net
+	url = https://github.com/kneedels/SmartIrc4net.git
+[submodule "aenetmail"]
+	path = aenetmail
+	url = https://github.com/andyedinborough/aenetmail.git
+[submodule "log4net"]
+	path = log4net
+	url = https://github.com/apache/log4net.git
